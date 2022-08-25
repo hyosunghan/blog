@@ -19,14 +19,14 @@ mindmap: true
 ### 超链接
 
 ```
-[靠谱-ing](https://hyosunghan.github.io)
+[靠谱-ing](https://hyosunghan.github.io/blog)
 
-<https://hyosunghan.github.io>
+<https://hyosunghan.github.io/blog>
 ```
 
-[靠谱-ing](https://hyosunghan.github.io)  
+[靠谱-ing](https://hyosunghan.github.io/blog)  
 
-<https://hyosunghan.github.io>
+<https://hyosunghan.github.io/blog>
 
 ### 列表
 

@@ -20,7 +20,7 @@ permalink: /about/
 {% for website in site.data.social %}
 <li>{{website.sitename }}：<a href="{{ website.url }}" target="_blank">@{{ website.name }}</a></li>
 {% endfor %}
-{% if site.url contains 'hyosunghan.github.io' %}
+{% if site.url contains 'hyosunghan.github.io/blog' %}
 <li>
 微博：<a>https://weibo.com/hayzion</a><br />
 <img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/qrcode.jpg" alt="HyosungHan" />
